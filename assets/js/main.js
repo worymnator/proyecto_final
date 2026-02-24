@@ -144,9 +144,9 @@ class ComponentLoader {
                 <div style="max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;">
                     <h1 style="margin: 0;">SPORTPRO</h1>
                     <nav>
-                        <a href="index.html" style="color: white; margin-left: 1rem;">Inicio</a>
-                        <a href="pages/productos.html" style="color: white; margin-left: 1rem;">Productos</a>
-                        <a href="pages/ofertas.html" style="color: white; margin-left: 1rem;">Ofertas</a>
+                        <a href="/index.html" style="color: white; margin-left: 1rem;">Inicio</a>
+                        <a href="/pages/productos.html" style="color: white; margin-left: 1rem;">Productos</a>
+                        <a href="/pages/ofertas.html" style="color: white; margin-left: 1rem;">Ofertas</a>
                     </nav>
                 </div>
             </header>`,
